@@ -100,25 +100,36 @@ The document contains a user study aiming to assess the usability of the website
 We have also conducted two different tasks for the users to assess using GazeRecorder. In both cases, we have asked the users a minimal task, and recorded their gaze as they observed the app.
 
 GAZE TASK 1:
-Image shown: Gallery view of the app.
-Question asked: Please identify what you can do in this app.
+Image shown: Shopping cart containing two items.
+Question asked: Please identify what you can do in this view of the app.
 ![Gaze Task 1](https://github.com/Machaquilla/DIU/blob/master/P4/gaze_task_1.png)
 
 GAZE TASK 2:
-Image shown: Profile of Laura.
-Question asked: How can you change the language setting of the app?
+Image shown: Specific course view.
+Question asked: How clear is the purpose of this event?
 ![Gaze Task 2](https://github.com/Machaquilla/DIU/blob/master/P4/gaze_task_2.png)
 
 
-Due to hardware constraints, we were not able to conduct these tasks yet, but we plan to do so in class.
+Due to hardware constraints, we were only able to perform the viewing tasks once. We will evaluate the heatmaps of our test subject.
 
+GAZE TASK 1 RESULT:
+
+![Heatmap 1](https://github.com/Machaquilla/DIU/blob/master/P4/heatmap_task_1.png)
+
+GAZE TASK 2 RESULT:
+
+![Heatmap 2](https://github.com/Machaquilla/DIU/blob/master/P4/heatmap_task_2.png)
+
+In the heatmaps shown above, it is visible that the subject has quickly identified the most relevant parts of the app. In the first heatmap, the image on top of the site draws attention, together with the bold headline. The text is shortly examined and the focus shifts to the Chef as well, that will be present on the event. The app is constructed in a way that allows the user to quickly identify the purpose of the activity.
+
+In the second heatmap, the shopping cart is displayed. Attention is specifically drawn to the items in the cart, as well as the presented button on the bottom of the page used to complete the shopping process. A third area of interest is the icons on the top of the display, which indicates that the color and icon choice is complementary with the shopping cart design.
 
 
 ## 4 CONCLUSIONES 
 
 
 We have assessed the COOK IT! app, and with regard to the experimental designs, it demonstrates high usability. The user interface is intuitive and user-friendly, making it easy for users of different experience levels to navigate the app. The feedback from users indicates a positive overall experience, highlighting the app’s effective layout and clear instructions. The usability testing confirms that COOK IT! meets the primary needs of its users, providing a seamless and enjoyable interaction. This high usability is crucial for user retention and satisfaction, ensuring the app remains competitive in the market. The idea of the app is very interesting and could provide a previouly untapped market with a nice app.
-
+The eye tracking results reveal that users quickly identified key elements of the app. In the first heatmap, users focused on the top image and bold headline, briefly examined the text, and then noticed the featured Chef. This indicates that the app's design effectively communicates the event's purpose. In the second heatmap, attention was directed towards the shopping cart items and the checkout button at the bottom of the page. Users also noticed the icons at the top of the display, suggesting that the app's color scheme and iconography complement the shopping cart design, enhancing usability and visual appeal.
 
 
 #### Incidencias
@@ -143,4 +154,4 @@ For a smooth usage from all experience levels, a light version for older people 
 
 #### Valoración de la prueba de usabilidad (self-assesment)
 
-(valoración personal de si han sido útiles estas técnicas para detectar errores ocultos o falllos de usabilidad en este caso )
+We have enjoyed to evaluate the app and have appreciated the clear and structured design. The process of constructing an experiment and asking subjects to evaluate the prototype was very interesting and gave us a lot of insight into the design and verification process.
