@@ -1,0 +1,34 @@
+,EQUIPO:                                           (fecha),TEST A:,,,TEST B:,
+,DISEÑO DE INTERFACES DE USUARIO ,Web: GRAN WALKING,,,Web: COOK IT,
+,PRACTICA 4 - Cuestionario SUS ,A - TESTING ,,, B - TESTING,
+,USUARIO ID: ,#USER1,,#USER2,#USER3,#USER4
+,SEXO,Hombre,,Mujer,Hombre,Mujer
+,EDAD,23,,20,31,29
+,OCUPACION,Estudiante,,Profesora escolar,Empresario,Peluquera
+,EXPERIENCIA TIC,Experiencia en campos de programacion y html,,no,Experiencia en diseño y analisis de webs,Experiencia en creacion de paginas web usando aplicaciones automatizadas
+,PERFIL (describir),"Me gusta la programacion, estoy estudiando un modulo de informatica, tambien me gusta conocer gente nueva y explorar nuevas ciudades",,"Me encantan los niños y la gente, soy una persona muy social y comprensiva","Gestiono mis propios negocios y activos, me gusta valorar los buenos trabajos y la gastronomía en difrentes lugares","Especialista en gastronomia, prueba y cata de alimentos"
+,,,,,,
+,,1: Completamente en desacuerdo,,1: Completamente en desacuerdo,1: Completamente en desacuerdo,1: Completamente en desacuerdo
+,,5: completamente de acuerdo,,5: completamente de acuerdo,5: completamente de acuerdo,5: completamente de acuerdo
+,CUESTIONARIO SUS,Valoracion User1  (entre 1-5),Normalizado,Valoracion User2  (entre 1-5),Valoracion User3  (entre 1-5),Valoracion User3  (entre 1-5)
+1,Creo que me gustará visitar con frecuencia este website,2,1,2,4,5
+2,Encontré el website innecesariamente complejo,1,4,2,1,1
+3,Pensé que era fácil utilizar este website,4,3,5,3,4
+4,Creo que necesitaría del apoyo de un experto para recorrer el website,1,4,1,2,3
+5,Encontré las funciones del website bastante bien integradas,2,1,3,4,5
+6,Pensé que había demasiada inconsistencia en el website,3,2,4,2,1
+7,Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website,3,2,4,3,3
+8,Encontré el website muy grande al recorrerlo,2,3,1,2,3
+9,Me sentí muy confiado en el manejo del website,2,1,2,3,4
+10,Necesito aprender muchas cosas antes de manejarme en el website,1,4,1,2,2
+,VALORACION FINAL ,"62,5","62,5","67,5",70,"77,5"
+,NO ACEPTABLE (SI ES <40),,,,,
+,MARGINAL (LOW  40-60),,,,,
+,MARGINAL D (ENTRE 60-70),,,,,
+,ACEPTABLE TIPO C (GOOD 70-80),,,,,
+,ACEPTABLE TIPO B (EXECELENT 70-80),,,,,
+,ACEPTABLE TIPO A (THE BEST 90-100),,,,,
+,,,,,,
+,,,,,,
+,Fuente:http://www.measuringux.com,,,,,
+,http://www.measuringux.com/sus/SUS.pdf,,,,,
